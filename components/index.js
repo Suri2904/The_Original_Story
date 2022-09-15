@@ -10,3 +10,4 @@ export {default as PostDetail} from "./PostDetail.jsx";
 export {default as FeaturedPostCard} from "./FeaturedPostCard.jsx";
 export{default as Loader} from "./Loader.jsx";
 export {default as AdjacentPostCard} from "./AdjacentPostCard.jsx";
+export {default as Footer} from "./Footer.jsx";
